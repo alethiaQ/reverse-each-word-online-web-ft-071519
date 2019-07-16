@@ -4,5 +4,5 @@ new_arr = []
 my_arr.each do |word|
   new_arr << word.reverse
 end
-new_arr
+new_arr.to_s
 end
