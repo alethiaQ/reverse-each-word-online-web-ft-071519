@@ -6,4 +6,3 @@ my_arr.each do |word|
 end
 new_arr
 end
-  
